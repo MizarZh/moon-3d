@@ -1,0 +1,19 @@
+.data {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  color: white;
+  width: 200px;
+}
+
+.button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 100px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
